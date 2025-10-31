@@ -236,6 +236,18 @@ main #vuethree #htreep1:hover {
   box-shadow: 2px 2px 20px rgb(249, 46, 80);
   transform: translateY(-0.5rem);
 }
+main #vuefour {
+  background: rgb(48, 48, 48);
+  padding: 5rem 2rem;
+  display: flex;
+  flex-direction: column;
+}
+main #vuefour #vuefourSectone {
+  width: 50%;
+}
+main #vuefour #seconeparttow {
+  width: 50%;
+}
 
 @media (min-width: 900px) {
   main #cjop {

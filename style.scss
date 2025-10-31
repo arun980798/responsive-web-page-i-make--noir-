@@ -255,6 +255,21 @@ main {
     }
 
   }
+  #vuefour{
+    background:rgb(48, 48, 48);
+    padding: 5rem 2rem;
+    display: flex;
+    flex-direction: column;
+    #vuefourSectone{
+      width: 50%;
+    }
+    #seconeparttow{
+      width: 50%;
+    }
+
+
+
+  }
 }
 
 @media (min-width: 900px) {
